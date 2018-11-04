@@ -1,0 +1,4 @@
+2018-11-03 20:15:08 - PHP Notice:  Undefined variable: information in /var/www/html/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 88
+2018-11-03 20:15:08 - PHP Notice:  Undefined variable: informations in /var/www/html/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 93
+2018-11-04 14:32:00 - PHP Notice:  Undefined variable: information in /var/www/html/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 88
+2018-11-04 14:32:00 - PHP Notice:  Undefined variable: informations in /var/www/html/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 93
